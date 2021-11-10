@@ -6,5 +6,7 @@ Logistic regression uses an equation as the representation, very much like linea
 
 The coefficients (Beta values b) of the logistic regression algorithm must be estimated from your training data. This is done using maximum-likelihood estimation.
 
-I used the following as a resource to implement and learn the same: 
+I used the following resources to implement and learn the same: 
 https://github.com/TheAlgorithms/Python
+Coursera ML course
+https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
