@@ -1,5 +1,3 @@
-Basic implementation of a classification algorithm named logistic regression.
-
 # Logistic Regression
 Logistic Regression is a Machine Learning algorithm which is used for the classification problems, it is a predictive analysis algorithm and based on the concept of probability.
 Logistic regression uses an equation as the representation, very much like linear regression.
